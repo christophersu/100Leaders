@@ -4,4 +4,4 @@
 Interactive map for National History Day
 
 HTML/CSS: Elaine Koontz
-JavaScript: Christopher Su (@csu)
+JavaScript: Christopher Su ([csu](https://github.com/csu))
